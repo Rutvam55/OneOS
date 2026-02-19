@@ -1,0 +1,7 @@
+# Build artifacts
+*.bin
+*.o
+*.img
+*.log
+# Temporary files
+*.tmp
