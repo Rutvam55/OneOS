@@ -1,0 +1,8 @@
+Compiler/
+*.bin
+*.o
+*.img
+*.elf
+*.map
+*.lst
+*.d
